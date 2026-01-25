@@ -1,6 +1,5 @@
 # 🧠 Clinical-Consciousness-Status-Analysis
 ## 🎯 Objective <br>
-<p>
 ## 🛠️ Tools <br>
 • <b> Tableau, Microsoft Excel <p>
 ## 🌐 Website <br>

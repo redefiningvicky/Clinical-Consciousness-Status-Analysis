@@ -1,5 +1,6 @@
 # 🧠 Clinical Consciousness Status Analysis
 ## 🎯 Objective <br>
+This project analyzes the prevalence of Coma, Vegetative State, and Locked-in Syndrome within California. By leveraging California HCAI inpatient data, the interactive Tableau dashboard illustrates the relationship between specific Primary Diagnoses, their External and Internal Causes, and the resulting Clinical Interventions (life-support) required for patient care. <p>
 ## 🛠️ Tools <br>
 • <b>Design & Visualization:</b> Tableau <p>
 • <b>Productivity & Collaboration:</b> Microsoft Excel <p>

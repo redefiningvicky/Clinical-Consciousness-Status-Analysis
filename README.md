@@ -6,4 +6,4 @@ This project analyzes the prevalence of Coma, Vegetative State, and Locked-in Sy
 • <b>Productivity & Collaboration:</b> Microsoft Excel <p>
 ## 🌐 Viz <br>
 This project is a fully functional Viz available at the following link: [View Viz](https://public.tableau.com/views/ClinicalConsciousnessStatusAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <p>
-![me](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis/blob/4c655162525f46b57868928f41b4d49ebfc20b28/Clinical_Consciousness_Status_Analysis.png)
+![me](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis/blob/cdaf9ccecb5c5531fc09c91cca2382f5a728a05e/Clinical_Consciousness_Status_Analysis.png)

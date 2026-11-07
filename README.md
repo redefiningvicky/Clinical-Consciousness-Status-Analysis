@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>🩺 Clinical Consciousness Status Analysis for California Hospitals (2024)</h1>
@@ -23,7 +22,8 @@
 
 <hr>
 
-<h2 id="objective">🎯 Objective</h2>
+<a name="objective"></a>
+<h2>🎯 Objective</h2>
 
 <p>
   This project analyzes the prevalence of Coma,
@@ -37,7 +37,8 @@
 
 <hr>
 
-<h2 id="project-details">🛠️ Project Details</h2>
+<a name="project-details"></a>
+<h2>🛠️ Project Details</h2>
 
 <p>
   <strong>Tools:</strong> Tableau, Microsoft Excel
@@ -45,7 +46,8 @@
 
 <hr>
 
-<h2 id="dashboard">🌐 Dashboard</h2>
+<a name="dashboard"></a>
+<h2>🌐 Dashboard</h2>
 
 <p>
   <a href="https://public.tableau.com/views/ClinicalConsciousnessStatusAnalysisforCaliforniaHospitals2024/Dashboard1">
@@ -55,16 +57,17 @@
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<a name="images"></a>
+<h2>🖼️ Images</h2>
 
 <h3>Clinical Consciousness Status Analysis Dashboard</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis/blob/main/Clinical_Consciousness_Status_Analysis.png">
+      <a href="Images/Clinical_Consciousness_Status_Analysis.png">
         <img
-          src="Clinical_Consciousness_Status_Analysis.png"
+          src="Images/Clinical_Consciousness_Status_Analysis.png"
           alt="Clinical Consciousness Status Analysis dashboard"
           width="100%"
         />
